@@ -1,4 +1,20 @@
-{
+{exports.default = {
+  $SITE_DESCRIPTION: 'Join an our meetings anytime, anywhere! Choose from over 100 weekly meetings on Zoom!',
+  $SITE_TITLE:'NextMeeting For FF',
+  $FULL_PAGE_URL:'https://mysite.com',
+  $SITE_PROMO_BANNER_IMAGE: 'open_graph_promo_banner.jpg',
+  $APPLE_TOUCH_ICON: 'apple-touch-icon.png',
+  $FELLOWSHIP: 'My groups',
+  $FEEDBACK_EMAIL_ADDRESS: "contact@example.com",
+  $SOURCE_GOOGLE_SHEET_URL: 'https://docs.google.com/spreadsheets/d/****',
+  $ADD_NEW_MEETING_URL: 'https://docs.google.com/forms/d/e/****',
+  $THEME_LIGHT: 'theme-neptune-light',
+  $THEME_DARK: 'theme-neptune-dark',
+  $DEPLOY_ID: 'C5448DD7-F7AC-48FC-BC3B-A560FE8EF99A', // A random UUID
+  $ANNOUNCEMENT_BAR_TEXT: 'Welcome to our brand new Zoom meeting site!.',
+  $ANNOUNCEMENT_BAR_URL: '',
+  $ANNOUNCEMENT_BAR_EMOJI: '🚀'
+}
   "workspace.art_style" : 0,
   "workspace.color" : 9,
   "workspace.name" : "NextMeeting For FF"
