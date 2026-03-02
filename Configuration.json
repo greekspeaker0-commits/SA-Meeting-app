@@ -14,8 +14,8 @@
   $ANNOUNCEMENT_BAR_TEXT: 'Welcome to our brand new Zoom meeting site!.',
   $ANNOUNCEMENT_BAR_URL: '',
   $ANNOUNCEMENT_BAR_EMOJI: '🚀'
-
-  "workspace.art_style" : 0,
+}
+{  "workspace.art_style" : 0,
   "workspace.color" : 9,
   "workspace.name" : "NextMeeting For FF"
 }
