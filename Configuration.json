@@ -1,6 +1,11 @@
-{exports.default = 
+{
+  "workspace.art_style" : 0,
+  "workspace.color" : 9,
+  "workspace.name" : "NextMeeting"
+}
+exports.default = {
   $SITE_DESCRIPTION: 'Join an our meetings anytime, anywhere! Choose from over 100 weekly meetings on Zoom!',
-  $SITE_TITLE:'NextMeeting For FF',
+  $SITE_TITLE:'NextMeeting Site',
   $FULL_PAGE_URL:'https://mysite.com',
   $SITE_PROMO_BANNER_IMAGE: 'open_graph_promo_banner.jpg',
   $APPLE_TOUCH_ICON: 'apple-touch-icon.png',
@@ -14,8 +19,4 @@
   $ANNOUNCEMENT_BAR_TEXT: 'Welcome to our brand new Zoom meeting site!.',
   $ANNOUNCEMENT_BAR_URL: '',
   $ANNOUNCEMENT_BAR_EMOJI: '🚀'
-}
-{  "workspace.art_style" : 0,
-  "workspace.color" : 9,
-  "workspace.name" : "NextMeeting For FF"
 }
